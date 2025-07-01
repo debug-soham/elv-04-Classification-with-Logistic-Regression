@@ -28,4 +28,4 @@ Build a classification model using logistic regression and evaluate it using rel
 
 <br>
 
-> 🗓️ Part of internship at Elevate Labs (Day 4 Task)
+> 🗓️ Part of internship at Elevate Labs
