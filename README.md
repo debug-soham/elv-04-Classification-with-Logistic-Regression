@@ -24,7 +24,7 @@ Build a classification model using logistic regression and evaluate it using rel
 
 ## 📁 Files  
 - `Breast_Cancer_Classification.csv` – Binary classification dataset  
-- `Logistic_Regression_Classification.ipynb` – Notebook with all steps, metrics, and visualizations
+- `Classification with Logistic Regression.ipynb` – Notebook with all steps, metrics, and visualizations
 
 <br>
 
